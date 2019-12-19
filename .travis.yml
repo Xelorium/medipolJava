@@ -1,4 +1,4 @@
 language : java
-script : "mvn -f muhammed_bayraktar/pom.xml clean install cobertura:cobertura"
+script : "mvn -f finalders5/pom.xml clean install cobertura:cobertura"
 jdk: 
    - openjdk8
